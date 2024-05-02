@@ -5,6 +5,8 @@ import styles from '@/app/ui/home.module.css';
 import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 
+// Following this tutorial https://nextjs.org/learn/dashboard-app/navigating-between-pages
+
 <div className={styles.shape} />;
 
 export default function Page() {
